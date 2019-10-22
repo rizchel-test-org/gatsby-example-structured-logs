@@ -11,7 +11,6 @@ export const dingusQuery = graphql`
   {
     site {
       siteMetadata {
-        test
         title
       }
     }
