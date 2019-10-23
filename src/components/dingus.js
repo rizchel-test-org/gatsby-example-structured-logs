@@ -16,5 +16,4 @@ export const dingusQuery = graphql`
     }
   }
 `
-
 export default Dingus
